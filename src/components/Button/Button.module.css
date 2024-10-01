@@ -22,9 +22,9 @@
 }
 
 .accent:hover {
-  background: var(--primaty-hover-color);
+  background: var(--primary-hover-color);
 }
 
 .accent {
-  background: var(--primaty-color);
+  background: var(--primary-color);
 }
